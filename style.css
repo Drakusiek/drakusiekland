@@ -4,7 +4,7 @@ section {
 }
 
 span {
-	background-color: #FDFD96;
+	background-color: #ccffcc;
 	padding: 2px 5px;
 }
 
@@ -14,4 +14,8 @@ input[type=text] {
     padding: 10px 35px;
     margin: 8px 0;
     box-sizing: border-box;
+}
+font-face {
+  font-family: "Indie-Flower";
+  src: url('https://fonts.google.com/specimen/Indie+Flower?category=Handwriting') format("truetype");
 }
