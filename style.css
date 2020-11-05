@@ -1,15 +1,9 @@
-section {
-	max-width: 1200px;
-	margin: 0 auto;
+body {
+  background-color: powderblue;
 }
-
-span {
-	background-color: #ccffcc;
-	padding: 2px 5px;
+p {
+  color: blue;
 }
-
-@font-face {
-  font-family: "Architects-Daughter";
-  src: url('https://fonts.google.com/specimen/Architects+Daughter?category=Display,Handwriting,Monospace') format("truetype");
+a {
+  color: red;
 }
-
