@@ -1,1 +1,8 @@
-Sorce code of my site :)
+HEY!
+
+Before you yoink code listen
+
+THIS IS AN CODE FOR PERSONAL
+
+GO FIND SOME TUTORIAL!!!!!
+THERE ARE SO MUCH TUTORIALS ABOUT HTML AND CSS
