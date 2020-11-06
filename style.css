@@ -1,10 +1,13 @@
 <link rel="stylesheet" href="/html/styles.css"
 body {
-  background-color: powderblue;
+  background-color: white;
 }
 p1 {
-  color: blue;
+  color: pink;
 }
 a {
-  color: red;
+  color: pink;
+}
+h1{
+  color: pink;
 }
